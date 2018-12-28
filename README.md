@@ -8,4 +8,4 @@ The goal of 3dna2 is to provide a service or application anyone can use to gener
 
 # References
 
-* 
+* https://pypi.org/project/numpy-stl/

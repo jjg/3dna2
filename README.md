@@ -7,3 +7,5 @@ Generate printable 3D models from sequenced gnome data.
 The goal of 3dna2 is to provide a service or application anyone can use to generate, view and print a model based on their genome data from any popular sequencing service.  Generated models can be visualized electronically, exported for printing at home or ordered from online 3D printing services.
 
 # References
+
+* 
